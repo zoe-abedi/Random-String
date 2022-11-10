@@ -1,5 +1,5 @@
 # Python program to generate and match
-# the string from all random strings
+# the string from all random srings
 # of same length
 
 # Importing string, random
