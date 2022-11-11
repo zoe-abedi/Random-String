@@ -1,4 +1,4 @@
-# Python program to generate and match
+# Python program to generate and matc
 # the string from all random srings
 # of same length
 
